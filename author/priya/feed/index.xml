@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/author/priya/feed/" rel="self" type="application/rss+xml" />
 	<link>https://priyasinharoy.com/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 19 Jan 2022 20:20:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Jan 2022 20:58:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.3</generator>
 	<item>
+		<title>New dummy post</title>
+		<link>https://priyasinharoy.com/new-dummy-post/01/2022/</link>
+					<comments>https://priyasinharoy.com/new-dummy-post/01/2022/#respond</comments>
+		
+		<dc:creator><![CDATA[priya]]></dc:creator>
+		<pubDate>Wed, 19 Jan 2022 20:58:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://priyasinharoy.com/?p=8</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://priyasinharoy.com/new-dummy-post/01/2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hello world!</title>
 		<link>https://priyasinharoy.com/hello-world/01/2022/</link>
 					<comments>https://priyasinharoy.com/hello-world/01/2022/#comments</comments>
